@@ -1,0 +1,6 @@
+{
+  "userId": 1,
+  "type": "Running",
+  "timestamp": "2024-08-22T10:00:00",
+  "details": "Morning run for 5 miles"
+}
